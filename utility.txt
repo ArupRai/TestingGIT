@@ -1,1 +1,3 @@
 this is utility file to slow down your brain (version 6) in github
+still_here KEY
+$$$
